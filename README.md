@@ -1,4 +1,4 @@
-android_device_samsung_e120s
+android_device_samsung_e120s 
 ============================
 
 Device for E120S
