@@ -1,1 +1,1 @@
-require version-baseband=E120SKSJMA4
+require version-baseband=E120SKSLL6
